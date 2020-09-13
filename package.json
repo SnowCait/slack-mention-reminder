@@ -1,0 +1,22 @@
+{
+  "name": "slack-mention-reminder",
+  "version": "1.0.0",
+  "description": "Remind slack mentions.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SnowCait/slack-mention-reminder.git"
+  },
+  "author": "SnowCait",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SnowCait/slack-mention-reminder/issues"
+  },
+  "homepage": "https://github.com/SnowCait/slack-mention-reminder#readme",
+  "dependencies": {
+    "@slack/bolt": "^2.3.0"
+  }
+}
